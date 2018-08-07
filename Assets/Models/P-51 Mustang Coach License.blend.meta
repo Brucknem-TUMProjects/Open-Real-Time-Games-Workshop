@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: 3204363122b8bf44ca41c144531717a1
+timeCreated: 1492715601
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Aileron_L
+    100002: Aileron_R
+    100004: Armature
+    100006: CanopyRear
+    100008: Elevator_L
+    100010: Elevator_R
+    100012: Flap_L
+    100014: Flap_R
+    100016: GearDoor_L
+    100018: GearDoor_R
+    100020: GearMain_L
+    100022: GearMain_R
+    100024: GearSmall_L
+    100026: GearSmall_R
+    100028: GearTail
+    100030: Main
+    100032: Mustang
+    100034: //RootNode
+    100036: Rudder
+    100038: Spinner
+    400000: Aileron_L
+    400002: Aileron_R
+    400004: Armature
+    400006: CanopyRear
+    400008: Elevator_L
+    400010: Elevator_R
+    400012: Flap_L
+    400014: Flap_R
+    400016: GearDoor_L
+    400018: GearDoor_R
+    400020: GearMain_L
+    400022: GearMain_R
+    400024: GearSmall_L
+    400026: GearSmall_R
+    400028: GearTail
+    400030: Main
+    400032: Mustang
+    400034: //RootNode
+    400036: Rudder
+    400038: Spinner
+    4300000: Mustang
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: Mustang
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

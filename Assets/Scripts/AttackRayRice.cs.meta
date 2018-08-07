@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1224b87cd1a324c419b0dd3eca621054
+timeCreated: 1493324308
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - ufoRayRicePrefab: {fileID: 1900444092459036, guid: c3988b91263a2404da0c808505398d88,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
